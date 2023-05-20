@@ -1,0 +1,6 @@
+Soda,200
+Iced Tea,250
+Iced Coffee,250
+Boba,400
+Smoothie,400
+Water,100
