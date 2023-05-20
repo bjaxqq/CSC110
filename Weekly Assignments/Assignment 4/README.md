@@ -11,6 +11,7 @@ Your first program only knows about sandwiches and drinks. To make your life eas
 3. All messages about what customers owe should be printed out in the format: `$<dollars>.<cents> where <cents> is always 2 digits! (i.e. $7.20 and not $7.2)`
 
 Here are some sample runs (user input is in **bold**):
+
 1. 
 Do you want a sandwich? (Y/N) **y**
 Do you want a drink? (Y/N) **y**
