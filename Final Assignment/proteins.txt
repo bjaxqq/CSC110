@@ -1,0 +1,8 @@
+Roast Beef,400
+Turkey,250
+Ham,250
+Falafel,350
+Tofu,200
+Egg,200
+Salami,300
+None,0
