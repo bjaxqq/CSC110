@@ -1,4 +1,4 @@
-### Final Assignment
+# Final Assignment
 
 For your final project you will create an interactive sandwich shop ordering system. This ordering system will be for Blake’s Famous Sandwich Shop!
 
