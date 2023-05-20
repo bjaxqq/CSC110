@@ -1,0 +1,7 @@
+Feta,325
+Cheddar,200
+American,100
+Swiss,225
+Havarti,225
+Pepper Jack,250
+None,0
