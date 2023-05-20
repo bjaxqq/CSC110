@@ -1,0 +1,10 @@
+Mayo,0
+Mustard,0
+Lettuce,0
+Tomato,0
+Raw Onion,0
+Grilled Onion,100
+Spinach,50
+Hot Peppers,50
+Bacon,200
+None,0
