@@ -1,0 +1,5 @@
+Potato Salad,200
+Cole Slaw,200
+Chips,100
+Fries,400
+Green Salad,300
